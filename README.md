@@ -1,5 +1,5 @@
 # SSG
-pytorch implementation for SSG "Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation" in submission 747
+pytorch implementation for SSG "Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation" accepted as long paper in the research track of CIKM 2020
 ## Packages
 - python 3.6.9
 - torch 1.5.0
